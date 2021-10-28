@@ -7,9 +7,11 @@ function App() {
       <div className="app">
         <Header/>
         <Switch>
-          <Route path="/checkout">checkout</Route>
+          <Route path="/chechout">checkout</Route>
           <Route path="/login">login</Route>
-          <Route path="/">Home</Route>
+          <Route path="/">
+            <div>Home</div>
+          </Route>
         </Switch>
       </div>
     </Router>
