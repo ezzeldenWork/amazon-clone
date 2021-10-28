@@ -1,0 +1,20 @@
+.home {
+  margin: 0 auto;
+  max-width: 1500px;
+}
+
+.home__row {
+  display: flex;
+  z-index: 1;
+  margin: 0 5px;
+  flex: 1;
+  width: 100%;
+}
+
+.home_imge {
+  width: 100%;
+  mask-image: linear-gradient(to bottom, #000, #00000000);
+  z-index: -1;
+  margin-bottom: -150px;
+  /* position: relative; */
+}
