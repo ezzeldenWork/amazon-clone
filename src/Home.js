@@ -15,14 +15,14 @@ const Home = () => {
           title="some title some title some title some title"
           price="45646"
           rating={5}
-          img="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+          img="https://m.media-amazon.com/images/I/81MEInXvwUL._AC_UL320_.jpg"
         />
         <Product
           id="3432"
           title="some title some title some title some title"
           price="45646"
           rating={4}
-          img="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+          img="https://m.media-amazon.com/images/I/71IdKRlm8+L._AC_UL320_.jpg"
         />
       </div>
       <div className="home__row">
@@ -31,14 +31,15 @@ const Home = () => {
           title="some title some title some title some title"
           price="45646"
           rating={5}
-          img="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+          img="https://m.media-amazon.com/images/I/71SQSraI7rL._AC_UL320_.jpg"
         />
         <Product
           id="654"
           title="some title some title some title some title"
           price="45646"
           rating={4}
-          img="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+          img="https://m.media-amazon.com/images/I/61duFjP3U5S._AC_UL320_.jpg"
+
         />
         <Product
           id="52421212315"
@@ -54,7 +55,7 @@ const Home = () => {
           title="some title some title some title some title"
           price="98"
           rating={1}
-          img="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+          img="https://m.media-amazon.com/images/I/61a9RYXjqzL._AC_UL320_.jpg"
         />
       </div>
     </div>
